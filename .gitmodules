@@ -1,0 +1,3 @@
+[submodule "pymlir"]
+	path = pymlir
+	url = https://github.com/spcl/pymlir

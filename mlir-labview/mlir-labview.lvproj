@@ -12,6 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="mlir-labview.vipc" Type="Document" URL="../mlir-labview.vipc"/>
 		<Item Name="mlir.lvlib" Type="Library" URL="../mlir.lvlib"/>
 		<Item Name="scratch-pad.vi" Type="VI" URL="../scratch-pad.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
